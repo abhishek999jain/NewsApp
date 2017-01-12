@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+    <!-- u can add the value can display in the seeting bar -->
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Search Topic</string>
+    <string name="settings_order_by_key" translatable="false">search_key</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_sport_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_sport_label">Sport</string>
+    <string name="settings_order_by_sport_value" translatable="false">sport</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_politics_label">Politics</string>
+    <string name="settings_order_by_politics_value" translatable="false">politics</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_movie_label">Movie</string>
+    <string name="settings_order_by_movie_value" translatable="false">movie</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_earthquakes">No earthquakes found.</string>
+
+
+</resources>
